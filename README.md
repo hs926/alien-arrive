@@ -39,15 +39,18 @@ Aliens Arrive! UFO sightings in the last century in the U.S. Outer space is alwa
 Section 1:
 UFO landing map
 We believe it will be amazingly fancy and inspiring for the audience if we can show them the process of all the UFO sightings in an interesting and vivid way. We come up with many ideas for this main visualization and finally decided on the ideation inspired by the sci-fi movie, Independence Day. In this movie, a huge UFO floating over the earth and all the alien army will be sent off from the gate of this huge spaceship.  We believe it will be a cool idea if we can also design a UFO floating over the U.S. Imagine all the UFOs that have been sighted are released by this huge UFO, and then landed to different spots. All the lines represent the journey that the UFO is released and fly to the earth. The circle on the map represents that the location the each UFO is sighted.
+
 ![img](https://github.com/hs926/alien-arrive/raw/master/image/section1.gif)
 
 
 Section 2:
 Besides a fancy visualization of the overall history of these 80000 UFO sightings, we hope to utilize the dataset to present more interesting facts. Therefore, in section 2, we hope to show audience UFO sightings by years. We imply a time slider to allow audience control the exact year. At the same time, UFO insights will be highlighted and a total amount of the sightings in that year will be shown in red dots. The audience could also hover over each dot to see the location of the UFO.  
+
 ![img](https://github.com/hs926/alien-arrive/raw/master/image/section2.gif)
 
 Section 3:
 In this dataset, we have a very interesting data points about the shape of the UFO according to the reporters. We use this data present a visualization of different shapes. The audience can hover over shapes to see how many sightings of this shape have been witnessed within the last century. We want our users to have fun and explore by themselves through irregular circular rotation. Let the user takes time to feel the shape and to find the highest and the lowest frequency.
+
 ![img](https://github.com/hs926/alien-arrive/raw/master/image/section3.gif)
 
 
